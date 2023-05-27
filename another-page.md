@@ -2,6 +2,6 @@
 layout: default
 ---
 
-## Welcome to another page
+## Next Page
 
 [back](./)
