@@ -23,4 +23,4 @@ if alive:
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
-[Profile](./another-page.html)
+[About me](./another-page.html)
