@@ -6,16 +6,17 @@ layout: default
 
 **List of projects:**
 
-# Project 1
+# Fraud Detection
 
-Fraud Detection 
+A sample project created.
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rgurum/fraud_detection)
 
-## Sample
+## Sample Snippet
 
 ```python
 // Python code with syntax highlighting.
-if aline:
+if alive:
 	print ("Do Code")
 ```
 
@@ -24,5 +25,5 @@ if aline:
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ```
-**Thanks for Reading**
+Thanks for Reading
 ```
