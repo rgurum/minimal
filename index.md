@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[Profile](./another-page.html).
-
 **List of projects:**
 
 # Fraud Detection
