@@ -1,6 +1,6 @@
 title: <center> Gurumoorthi </center>
 logo: /assets/img/DP.png
-description: Threat Researcher | AI
-show_downloads: true
+description: <center> Threat Researcher | AI </center>
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
